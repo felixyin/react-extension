@@ -1,0 +1,23 @@
+.content {
+  padding: 50px 50px;
+  margin: 50px 50px;
+  border: 1px solid red;
+}
+
+.b {
+  padding: 50px 50px;
+  margin: 50px 50px;
+  border: 1px solid blue;
+}
+
+.c {
+  padding: 50px 50px;
+  margin: 50px 50px;
+  border: 1px solid green;
+}
+
+.d {
+  padding: 50px 50px;
+  margin: 50px 50px;
+  border: 1px solid pink;
+}

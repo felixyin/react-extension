@@ -1,0 +1,17 @@
+.pp {
+  margin: 50px 50px;
+  padding: 50px 50px;
+  border: 1px solid blue;
+}
+
+.aa {
+  padding: 50px 50px;
+  margin: 50px 50px;
+  border: 1px solid pink;
+}
+
+.bb {
+  padding: 50px 50px;
+  margin: 50px 50px;
+  border: 1px solid green;
+}
