@@ -1,3 +1,12 @@
+## 环境
+
+- nodejs
+- vscode
+
+## 运行
+
+`npm run start`
+
 ## 1. setState
 
 ### setState 更新状态的 2 种写法
